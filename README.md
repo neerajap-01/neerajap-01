@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neerajap-01
+- 👋 Hi, my name is Neeraj Pal
 - 👀 I’m interested in new Technolgy
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on new and interesting projects 
