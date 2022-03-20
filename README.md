@@ -1,7 +1,7 @@
 
 - 👋 Hi, my name is Neeraj Pal
 - 👀 I’m interested in new Technolgy
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently Backend Development
 - 💞️ I’m looking to collaborate on new and interesting projects 
 - 📫 If you want to contact me visit "https://www.neerajpal.me".
 ## 🚀 About Me
