@@ -3,7 +3,7 @@ Hi 👋 My name is Neeraj Pal
 
 Software Developer Engineer
 ---------------------------
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat) \
+![](https://komarev.com/ghpvc/?username=neerajap-01&color=brightgreen&style=flat) \
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
