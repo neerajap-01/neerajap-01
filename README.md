@@ -14,10 +14,10 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 * ⚡  I love to watch movies and especially Sci-Fi genre
 
 <hr>
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=neerajap-01&show_icons=true&locale=en"
-        alt="@neerajap-01" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajap-01&" alt="@neerajap-01" /></p>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=neerajap-01&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=neerajap-01&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
      
 <div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/neerajap-01/output/github-contribution-grid-snake.svg" /></div>
 
