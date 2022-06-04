@@ -13,15 +13,13 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 * 🤝  I'm open to collaborating on Interesting and challenging projects
 * ⚡  I love to watch movies and especially Sci-Fi genre
 
-<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
-
 <hr>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=neerajap-01&show_icons=true&locale=en"
         alt="@neerajap-01" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajap-01&" alt="@neerajap-01" /></p>
      
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/neerajap-01/output/github-contribution-grid-snake.svg" /></div>
 
 ### Skills
 
