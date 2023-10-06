@@ -7,9 +7,9 @@ Software Developer Engineer
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
-* 🖥️  See my portfolio at [Neeraj Pal](http://neerajpal.me)
+* 🖥️  See my portfolio at [Neeraj Pal](http://neerajpal.dev)
 * ✉️  You can contact me at [neerajap.a01@gmail.com](mailto:neerajap.a01@gmail.com)
-* 🧠  I'm learning Backend Development
+* 🧠  I'm learning Full Stack Developer
 * 🤝  I'm open to collaborating on Interesting and challenging projects
 * ⚡  I love to watch movies and especially Sci-Fi genre
 
