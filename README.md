@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 Software Developer Engineer
 ---------------------------
 ![](https://komarev.com/ghpvc/?username=neerajap-01&color=brightgreen&style=flat) \
-On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
+I’m on the journey to becoming a SOFTWARE DEVELOPER ENGINEER, driven by a strong passion for coding that motivates me to work hard and excel in life.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
 * 🖥️  See my portfolio at [Neeraj Pal](http://neerajpal.dev)
