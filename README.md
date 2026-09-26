@@ -8,7 +8,7 @@ I’m on the journey to becoming a SOFTWARE DEVELOPER ENGINEER, driven by a stro
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
 * 🖥️  See my portfolio at [Neeraj Pal](http://neerajpal.dev)
-* ✉️  You can contact me at [neerajap.a01@gmail.com](mailto:neerajap.a01@gmail.com)
+* ✉️  You can contact me at [neeraj@neerajpal.dev](mailto:neeraj@neerajpal.dev)
 * 🧠  I'm learning Full Stack Developer
 * 🤝  I'm open to collaborating on Interesting and challenging projects
 * ⚡  I love to watch movies and especially Sci-Fi genre
